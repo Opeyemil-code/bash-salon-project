@@ -1,0 +1,228 @@
+
+body{
+    background-image: url('project images/barber-shop-vs-hair-salon.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: white;
+    width: 100%;
+    background-size: 100% 92%;
+    height:1000px;
+    font-family: "Poppins",Arial,sans-serif;
+    font-weight: 300;
+    color: gray;
+
+    
+
+}
+
+img#pic{
+    
+}
+
+.level{
+    font-size: 40px;
+    line-height: 1;
+    font-family: 'Cookie', cursive;
+    margin-left: 300px; 
+}
+
+.navbar{
+    padding-left: 800px;
+    margin-top: -70px;
+    color: white;
+}
+
+.o{
+    padding: 25px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    letter-spacing: 1px;
+
+}
+.a{
+    padding: 25px;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.b{
+    padding: 25px;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.c{
+    padding: 25px;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.d{
+    padding: 25px;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.f{
+    padding: 25px;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+a:hover{
+    color: #ce9c6b;
+}
+
+
+.p{
+    font-family: 'Cookie', cursive;
+font-family: 'Poppins', sans-serif;
+padding-left: 220px;
+font-size: 25px;
+margin-top: 10%;
+}
+
+.opeyemil{
+    text-decoration: solid;
+    color: white;
+}
+.h1{
+    font-size: 40px;
+    color: #fff;
+    line-height: 1.2;
+    font-weight: 700px;
+    padding-left: 100px;
+    margin-top: 10px;
+}
+
+
+.l{
+    margin-top: 2.5%;
+}
+
+a.btn{
+    border: 10px solid #ce9c6b;
+    background: #ce9c6b;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 20px;
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 170px;
+    margin-top: 70%;    
+}
+
+.big-container{
+    width: 100%;
+    background: black;
+    flex-direction: row;
+    flex-flow: row;
+}
+
+.flex-container{
+    display: flex;
+  background: black;
+  width: 60%;
+  flex-direction: row;
+  border-radius: ;
+  margin-top: 12%;
+  flex-direction: row;
+}
+
+.to-pad{
+    padding-left: 1px;
+}
+
+.icon{
+    margin-left: 120px;
+}
+
+
+
+.text{
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ext{
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+.another-icon{
+    margin-left: 150px;
+
+}
+
+.time{
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.yellow-flex{
+    display: flex;
+    color: #ce9c6b;
+    padding: 2%;
+    background: #ffc107; 
+    margin-left: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
