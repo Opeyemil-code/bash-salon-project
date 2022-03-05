@@ -36,7 +36,7 @@ img#pic{
     padding: 25px;
     color: white;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 17px;
     opacity: 1;
     background-color: transparent;
     letter-spacing: 1px;
@@ -45,7 +45,7 @@ img#pic{
 .a{
     padding: 25px;
     color: white;
-    font-size: 14px;
+    font-size: 17px;
     opacity: 1;
     background-color: transparent;
     text-decoration: none;
@@ -55,7 +55,7 @@ img#pic{
 .b{
     padding: 25px;
     color: white;
-    font-size: 14px;
+    font-size: 17px;
     opacity: 1;
     background-color: transparent;
     text-decoration: none;
@@ -64,8 +64,8 @@ img#pic{
 .c{
     padding: 25px;
     color: white;
-    font-size: 14px;
-    opacity: 1;
+    font-size: 17px;
+    opacity: 2;
     background-color: transparent;
     text-decoration: none;
     letter-spacing: 1px;
@@ -73,7 +73,7 @@ img#pic{
 .d{
     padding: 25px;
     color: white;
-    font-size: 14px;
+    font-size: 17px;
     opacity: 1;
     background-color: transparent;
     text-decoration: none;
@@ -82,7 +82,7 @@ img#pic{
 .f{
     padding: 25px;
     color: white;
-    font-size: 14px;
+    font-size: 17px;
     opacity: 1;
     background-color: transparent;
     text-decoration: none;
@@ -98,7 +98,7 @@ a:hover{
 font-family: 'Poppins', sans-serif;
 padding-left: 220px;
 font-size: 25px;
-margin-top: 10%;
+margin-top: 5%;
 }
 
 .opeyemil{
@@ -135,7 +135,7 @@ a.btn{
 }
 
 .big-container{
-    width: 100%;
+    width: 90%;
     background: black;
     flex-direction: row;
     flex-flow: row;
@@ -146,9 +146,10 @@ a.btn{
   background: black;
   width: 60%;
   flex-direction: row;
-  border-radius: ;
+  border-radius:10px ;
   margin-top: 12%;
   flex-direction: row;
+  
 }
 
 .to-pad{
@@ -204,6 +205,165 @@ a.btn{
     background: #ffc107; 
     margin-left: 60%;
 }
+
+.instagram{
+    margin-left: 15%;
+}
+
+.facebook{
+    margin-left: 15%;
+}
+
+.reddit{
+    margin-left: 15%;
+
+}
+
+.another-section{
+    position: relative;
+    background: #131416;
+    padding: 200px;
+}
+
+.div{
+    text-align: center;
+    margin-top: -100px;
+}
+.h{
+    font-style: normal;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    line-height: 1.4;
+}
+span{
+    color: #ffc107;
+    font-family: 'Cookie', cursive;
+}
+
+.lorem{
+    
+    font-family: fantasy;
+
+
+}
+hr{
+    width: 30%;
+    justify-content: center;
+    color: grey;
+}
+
+.our-services{
+    background: black;
+    padding: 300px;
+
+}
+.service{
+    text-align: center;
+    margin-top: -200px;
+
+}
+
+.serve-container{
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    background: black;
+    flex-direction: row;
+    padding: 10px;
+    width: 100%;
+
+}
+
+.flex1{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.icon-container{
+    display: flex;
+    margin-left: 100px;
+}
+
+.flex1h{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: white;
+    
+
+}
+/*
+p.flex1h{
+    font-size: 10px;
+}
+*/
+
+.flex2{
+    display: flex;
+    flex-direction: column;
+}
+
+.ico-container{
+    display: flex;
+    margin-left: 100px;
+}
+.flex2h{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: white;
+    
+}
+p.flex2h{
+    font-size: medium;
+}
+
+.flex3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 22px;
+}
+
+.ic-container{
+    display: flex;
+    margin-left: 100px;
+
+}
+
+.flex3h{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    color: white;
+    margin-left: 15px;
+    
+
+}
+
+p.flex3h{
+    font-size: medium;
+    margin-left: 15px;
+    
+}
+
+.flex4{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
