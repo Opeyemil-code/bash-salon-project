@@ -636,14 +636,48 @@ margin-top: 80px;
     background: #1b1b1b;
     margin-top: 70px;
     margin-left: 10%;
+    justify-content: center;
 
 }
 
 .imgg{
     display: flex;
+    background: ;
+    margin-top: 10% ;
+    padding-top: 40px;
+    width: 50%;
+    margin-left: 50px;
+    padding-top: ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: ;
+    padding: 10px;
+    background: ;
+    justify-content: center;
+    
     
 }
 
+
+.h55{
+    display: flex;
+    color: white;
+    text-align: center;
+    margin-top: -10px ;
+    justify-content: center;
+}
+
+.imf{
+    width: 70%;
+    height: auto;
+    margin-left: ;
+    border-radius: 30%;
+}
+
+.shafii{
+    width: 70%;
+    height: auto;
+}
 
 
 
