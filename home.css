@@ -21,15 +21,31 @@ img#pic{
 
 .level{
     font-size: 40px;
-    line-height: 1;
     font-family: 'Cookie', cursive;
-    margin-left: 300px; 
+    color: #ffc107;
+    display: flex;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    margin-left: -600px;
+    
 }
+
+.na{
+    display: flex;
+}
+
 
 .navbar{
     padding-left: 800px;
-    margin-top: -70px;
+    margin-top: 20px;
     color: white;
+    display: flex;
+    background: #131416;
+    position: static;
 }
 
 .o{
@@ -221,7 +237,7 @@ a.btn{
 
 .another-section{
     position: relative;
-    background: #131416;
+    background: #1b1b1b;
     padding: 200px;
 }
 
@@ -248,20 +264,26 @@ span{
 
 
 }
+/*
 hr{
     width: 30%;
     justify-content: center;
     color: grey;
 }
+*/
+
+/* this is the our services sectio styling*/
 
 .our-services{
     background: black;
-    padding: 300px;
+    padding: 200px;
+    justify-content: center;
 
 }
 .service{
     text-align: center;
     margin-top: -200px;
+    justify-content: center;
 
 }
 
@@ -284,7 +306,7 @@ hr{
 
 .icon-container{
     display: flex;
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 .flex1h{
@@ -292,9 +314,9 @@ hr{
     font-weight: bolder;
     font-style: normal;
     color: white;
-    
-
 }
+
+
 /*
 p.flex1h{
     font-size: 10px;
@@ -308,15 +330,20 @@ p.flex1h{
 
 .ico-container{
     display: flex;
-    margin-left: 100px;
+    margin-left: 150px;
 }
+
 .flex2h{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
     font-style: normal;
     color: white;
     
+    
 }
+
+
+
 p.flex2h{
     font-size: medium;
 }
@@ -329,10 +356,9 @@ p.flex2h{
 
 .ic-container{
     display: flex;
-    margin-left: 100px;
+    margin-left: 150px;
 
 }
-
 .flex3h{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: normal;
@@ -342,6 +368,7 @@ p.flex2h{
     
 
 }
+*/
 
 p.flex3h{
     font-size: medium;
@@ -354,6 +381,288 @@ p.flex3h{
     flex-direction: column;
     
 }
+
+
+.what-we-do{
+    background:#131416; 
+    padding: 100px;
+}
+
+.image-class{
+    background-color: #ffc107;
+    padding: 200px;
+}
+
+.ll{
+    max-width: fit-content;
+}
+
+.images-flex{
+    display: flex;
+    background: green;
+    width: 100%;
+    
+    
+}
+
+.fimage{
+    display: flex;
+    background: green;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: row;
+
+}
+
+.planspricing{
+    background: #131416;
+    padding: 200px;
+    
+}
+
+
+.textflex-container{
+    display: flex;
+    flex-direction: row ;
+    background: #131416;
+    
+}
+
+.first-con{
+    display: flex;
+    background: #131416;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.h22{
+    display: flex;
+    flex-direction: column;
+}
+
+.firstsmallcon{
+    display: flex;
+    padding: 20px;
+}
+
+.ppp{
+    display: flex;
+    flex-direction: column;
+    background:  #131416;
+    margin-top: -25px;
+}
+
+
+.second-con{
+    display: flex;
+    flex-direction: row;
+    background: red;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+
+
+h2{
+    line-height: 1.15;
+    font-weight: bold;
+    font-family: 'Cookie', cursive;
+font-family: 'Poppins', sans-serif;
+color: white;
+
+}
+
+span{
+    color: #ce9c6b;
+}
+
+.service-discount{
+    padding: 200px;
+    background:  url("");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: black;
+    width: auto;
+    background-size: auto;
+    height:auto;
+    font-family: "Poppins",Arial,sans-serif;
+    font-weight: 300;
+    color: gray;
+
+}
+
+.discounth4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -100px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+}
+
+.discounth3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ce9c6b;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -20px;
+}
+
+.discountp{
+    font-family: cursive;
+    text-align: center;
+
+}
+
+.app{
+    margin-top: 50px;
+}
+
+.app :hover{
+    background-color: #131416 ;
+    border: 1px solid ;
+
+
+}
+
+
+.appointment{
+    border: 10px solid #ce9c6b;
+background: #ce9c6b;
+font-weight: 400;
+text-align: center;
+line-height: 1.5;
+border-radius: 20px;
+color: black;
+text-decoration: none;
+font-size: 20px;
+margin-left: 550px;
+cursor: pointer;
+margin-top: 80px;
+}
+
+.appointment :hover{
+    background-color: aqua;
+    border: 1px solid #fff;
+}
+
+
+.hairstylist{
+    padding: 100px;
+    background: #1b1b1b;
+}
+
+
+.haircontainer{
+    display: flex;
+    background: ;
+    width: 70%;
+    flex-direction: row;
+    height: ;
+    margin-left: 150px;
+    
+    
+}
+
+.subcon{
+    display: flex;
+    background: #1b1b1b;
+    border: 1px solid #ce9c6b;
+    border-radius: 4px;
+    flex-direction: column;
+}
+
+.secondsubcon{
+    display: flex;
+    background: #1b1b1b;
+    border: 1px solid #ce9c6b;
+    margin-left: 50px;
+    border-radius: 4px;
+   flex-direction: column;
+
+}
+
+.thirdsubcon{
+    display: flex;
+    background: #1b1b1b;
+    border: 1px solid #ce9c6b;
+    padding-right: ;
+    margin-left: 30px;
+    border-radius: 4px;
+   flex-direction: column;
+
+}
+
+.fourthsubcon{
+    display: flex;
+    background: #1b1b1b;
+    border: 1px solid #ce9c6b;
+    margin-left: 30px;
+    border-radius: 4px;
+  flex-direction: column;
+}
+
+.hhhh{
+    display: flex;
+    color: #ce9c6b;
+    background: #1b1b1b;
+    margin-top: 70px;
+    margin-left: 10%;
+}
+
+
+.href{
+    color: #ce9c6b;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.ppp{
+    display: flex;
+    color: white;
+    background: #1b1b1b;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.hhh{
+    display: flex;
+    color: #ce9c6b;
+    background: #1b1b1b;
+    margin-top: 70px;
+    margin-left: 10%;
+
+}
+
+.imgg{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
