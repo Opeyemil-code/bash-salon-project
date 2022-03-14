@@ -41,7 +41,7 @@ img#pic{
 
 .navbar{
     padding-left: 800px;
-    margin-top: 20px;
+    margin-top: ;
     color: white;
     display: flex;
     background: #131416;
@@ -678,6 +678,163 @@ margin-top: 80px;
     width: 70%;
     height: auto;
 }
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */ OUR SHO /*///////////////////// */
+
+    
+
+
+
+
+
+.divi{
+    text-align: center;
+    margin-top: -100px;
+}
+.hh{
+    font-style: normal;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    line-height: 1.4;
+    text-align: center;
+    margin-top: -120px;
+}
+.ourshop{
+    background: #131416;
+    padding: 200px;
+}
+
+.shopflex{
+    display: flex;
+    flex-direction: row;
+    background: ;
+}
+
+.row{
+    display: flex;
+    background: ;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.iii{
+    display: flex;
+    background: ;
+    border: 1px solid #ffc107;
+    justify-content: center;
+    flex-direction: column;
+    padding: ;
+
+
+}
+
+.iiio{
+    display: flex;
+    background: ;
+    border: 1px solid #ffc107;
+    justify-content: center;
+    flex-direction: column;
+    padding: 120px;
+
+
+}
+
+.star{
+
+    flex-direction: row;
+    background:  ;
+    padding-right: ;
+    text-align: center;
+    margin-top: ;
+}
+
+
+.opop{
+    display: flex;
+    flex-direction: column;
+    background: ;
+    justify-content: center;
+    padding: 30px;
+    margin-top: ;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.brudda{
+    display: flex;
+    background: ;
+    text-align: center;
+    justify-content: center;
+    margin-top:-15% ;
+    flex-direction: row;
+    flex-shrink: 700px;
+
+}
+
+.haha{
+    display: flex;
+    background: ;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30%;
+}
+
+.appoint{
+border: 1px solid #ce9c6b;
+background: #ce9c6b;
+font-weight: 400;
+font-size: 13px;
+border-radius: 30px;
+text-align: center;
+line-height: 1.5;
+border-radius: 20px;
+color: white;
+text-decoration: none;
+font-size: 20px;
+cursor: pointer;
+
+}
+
+.appoint:hover{
+    border: 1px solid green;
+    background: black ;
+    border-radius: 30px;
+}
+
+.imgg{
+    display: flex;
+background: yellow ;
+margin-top: 10%;
+padding-top: ;
+width: ;
+margin-left: 50px;
+padding-top: ;
+background-repeat: no-repeat;
+background-position: center center;
+border-radius: ;
+padding: 10px;
+background: ;
+justify-content: center;
+    
+}
+
+
+.imr{
+    width: 10%;
+height: auto;
+margin-left: ;
+border-radius: 30%;
+}
+
+
+
+
 
 
 
