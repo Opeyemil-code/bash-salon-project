@@ -727,6 +727,7 @@ margin-top: 80px;
     justify-content: center;
     flex-direction: column;
     padding: ;
+    margin-left: 20px;
 
 
 }
@@ -807,20 +808,11 @@ cursor: pointer;
     border-radius: 30px;
 }
 
-.imgg{
+.tueh{
     display: flex;
 background: yellow ;
-margin-top: 10%;
-padding-top: ;
-width: ;
-margin-left: 50px;
-padding-top: ;
-background-repeat: no-repeat;
-background-position: center center;
-border-radius: ;
-padding: 10px;
-background: ;
 justify-content: center;
+flex-direction: column;
     
 }
 
@@ -831,6 +823,78 @@ height: auto;
 margin-left: ;
 border-radius: 30%;
 }
+
+
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// foooter styling ///////////////////////////////////////////////////////////////////////////////////////////*/
+
+.footer{
+    background: hsl(0, 0%, 11%);
+    padding: 100px;
+}
+
+
+
+.footercontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: ;
+    margin-top: -4em;
+    
+
+}
+
+.footercontainer div{
+    display: flex;
+    background: ;
+    border: ;
+    flex-direction: column;
+    margin: 1em;
+    
+
+}
+
+
+.foricon{
+    display: flex;
+    flex-direction: row;
+    letter-spacing: 2em;
+    
+}
+
+
+.opeyem{
+    color: white;
+}
+
+
+h3{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: white;
+    font-weight: lighter;
+}
+
+.llk{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
